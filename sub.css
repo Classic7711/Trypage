@@ -1,0 +1,19 @@
+.header {
+  color: skyblue;
+}
+.button {
+  background: blue;
+  width: 100%;
+  height: 40px;
+  padding: 6px 24px;
+  border: 4px solid #fff;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.button:active {
+  transform: scale(0.98);
+}
+.input_box i email,
+.input_box i password {
+  left: 0;
+}
